@@ -1,0 +1,28 @@
+name: fishphacurr
+favicon: null
+layout_spectrum: 0.05157463136129081
+typography_spectrum: 0.8168140826746821
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9718890704680234
+  lightness: 0.1859824499115348
+  saturation: 0.3807902568951249
+  rhythmicContrast: 0.5701284313108772
+purpose: []
